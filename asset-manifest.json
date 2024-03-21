@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e90b931.css",
+    "main.js": "/static/js/main.05b91b92.js",
+    "static/js/453.3a78b85f.chunk.js": "/static/js/453.3a78b85f.chunk.js",
+    "static/media/lighting.jpg": "/static/media/lighting.f6e0bbc480d72f4e532a.jpg",
+    "static/media/headlights.jpg": "/static/media/headlights.4c19f4d4f8efbc97988a.jpg",
+    "static/media/tripods.jpg": "/static/media/tripods.87192ac04f11ca2acf1e.jpg",
+    "static/media/faucets.jpg": "/static/media/faucets.2cd9608c7335e746bcad.jpg",
+    "index.html": "/index.html",
+    "main.4e90b931.css.map": "/static/css/main.4e90b931.css.map",
+    "main.05b91b92.js.map": "/static/js/main.05b91b92.js.map",
+    "453.3a78b85f.chunk.js.map": "/static/js/453.3a78b85f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e90b931.css",
+    "static/js/main.05b91b92.js"
+  ]
+}
